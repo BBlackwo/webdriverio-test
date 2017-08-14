@@ -1,8 +1,8 @@
 # WebDriver Setup
 
 ## From
- - [](http://webdriver.io/guide/getstarted/install.html) 
- - [](http://webnpx wdio wdio.conf.jsdriver.io/guide.html)
+ - <http://webdriver.io/guide/getstarted/install.html>
+ - <http://webdriver.io/guide.html>
 
 ## Dev Usage
 
