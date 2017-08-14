@@ -1,0 +1,19 @@
+{
+  "name": "webdriverio-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio wdio.conf.js",
+    "selenium": "selenium-standalone start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "selenium-standalone": "~6.6.0",
+    "wdio-jasmine-framework": "~0.3.1",
+    "wdio-spec-reporter": "~0.1.0",
+    "webdriverio": "~4.8.0"
+  }
+}
